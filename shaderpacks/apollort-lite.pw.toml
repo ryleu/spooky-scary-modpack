@@ -1,0 +1,8 @@
+name = "ApolloRT Lite"
+filename = "Apollo-lite.zip"
+side = "client"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/868488013792022588/1138332063838257253/Apollo-lite.zip"
+hash-format = "sha1"
+hash = "9e1e9c625c542206e0e66ea797da22e7115550d3"

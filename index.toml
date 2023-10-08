@@ -1622,3 +1622,13 @@ metafile = true
 file = "resourcepacks/patrix-32x.pw.toml"
 hash = "a2258e9fd73f499ae26474be9401e78b73b0f505f810dc68395d758b9250040d"
 metafile = true
+
+[[files]]
+file = "shaderpacks/apollort-lite.pw.toml"
+hash = "4f2bdd4d260622b11a418d4f754c447364f98102c9f321f489d6daa113bc6342"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "fe25dd4c082ac2195ec1f473f0390e2befa36a9a3743d27005701adf53f7aeea"
+metafile = true
