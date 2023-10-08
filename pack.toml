@@ -1,0 +1,13 @@
+name = "Spooky Scary Modpack"
+author = "ryleu,otulpp"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b46496eeb125f84595da86cbd2d4ce984e7b364eedd5cbeb37ea09ad305fc20e"
+
+[versions]
+forge = "43.3.2"
+minecraft = "1.19.2"
