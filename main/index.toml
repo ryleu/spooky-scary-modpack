@@ -1433,6 +1433,18 @@ file = "global_packs/required_resources/EnhancedAudio/pack.png"
 hash = "a6103839361a3990e502870a831d06de8cbdf4701591270c0695798ee1e5c8a7"
 
 [[files]]
+file = "global_packs/required_resources/eyes_in_the_dark_rework/assets/eyesinthedarkness/textures/entity/eyes1_e.png"
+hash = "c47a22712575c408319f75da54e43d7e154170f0d5229b8463dbed3addc37a35"
+
+[[files]]
+file = "global_packs/required_resources/eyes_in_the_dark_rework/assets/eyesinthedarkness/textures/entity/eyes2_e.png"
+hash = "88ed91475eb6dd3d028ee79dc09d90e0c61fc024a25f32f55812bd023924e732"
+
+[[files]]
+file = "global_packs/required_resources/eyes_in_the_dark_rework/pack.mcmeta"
+hash = "3e59e96c1db84a1f592db15b51c52a89db1b91ba9ae12dae7d5341f767324b8c"
+
+[[files]]
 file = "global_packs/required_resources/patrix-32x.pw.toml"
 hash = "a2258e9fd73f499ae26474be9401e78b73b0f505f810dc68395d758b9250040d"
 metafile = true
