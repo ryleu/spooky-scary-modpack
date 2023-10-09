@@ -58,9 +58,6 @@ name = "Entity Culling"
 url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/WR6z6MYC/entityculling-forge-1.6.1-mc1.19.2.jar"
 
 [[mods]]
-name = "Eyes in the Darkness"
-
-[[mods]]
 name = "Fastload"
 url = "https://cdn.modrinth.com/data/kCpssoSb/versions/nHeyxX0A/Fastload-Reforged-mc1.19.2-3.4.0.jar"
 
