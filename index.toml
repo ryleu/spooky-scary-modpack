@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/main.yml"
+hash = "81f82241d3a4becddfecbcc8b3af635dece5c4e5033f645992c94254b045f909"
+
+[[files]]
 file = "config/ambientsounds-client.json"
 hash = "c85552c547b741197b3f6f40d45039a0e51eb62fc661aa8be909b5fe597f115f"
 
@@ -1429,6 +1433,11 @@ file = "global_packs/required_resources/Enhanced Audio r5/pack.png"
 hash = "a6103839361a3990e502870a831d06de8cbdf4701591270c0695798ee1e5c8a7"
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "078012b47a997084ae5e7f47d519ff277b6e46880110a9f912cc5378603f2b26"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "e83a90a5cf68abc34b30252825b16e0c95ca9245cf99788265020d6fa106e86a"
 metafile = true
@@ -1449,6 +1458,11 @@ hash = "466cd84dc937903c319885915ccbd00cb4236ab4b4f51ee9d32573fd6cae8a28"
 metafile = true
 
 [[files]]
+file = "mods/canary.pw.toml"
+hash = "51adcde508750e16669128678ff4b731d71ac07dd87705b00278ef9df13cc52c"
+metafile = true
+
+[[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "eaf5ff310b162fe7f6443807011b9a3b5735ce20898b81ec8628ec2111fc0626"
 metafile = true
@@ -1456,6 +1470,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "d42a44515e657e67431cb042727db14f697b6d80c88c1da5fbe4c8afce738d29"
+metafile = true
+
+[[files]]
+file = "mods/connectedness.pw.toml"
+hash = "7b8944c22e5deef4ec333194484db891130d683613e7ed9714e90f2c4ee77fed"
 metafile = true
 
 [[files]]
@@ -1529,6 +1548,21 @@ hash = "69829a1d0efe96bc1d3463aef9d1f821b64ae1f038e26d00ba0f8a5da170385c"
 metafile = true
 
 [[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "ed9294e17b26a43a4740fc020b18863166894d08103e93290993c1344ea37620"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "5402b8c2d09491f95f2d794459f7adad102f52b09a07a1568b148493ab91d504"
+metafile = true
+
+[[files]]
+file = "mods/lightspeed.pw.toml"
+hash = "4a58810e9373dead7214ba727d484881315ccba44f449aeee97c69dde76ec8a0"
+metafile = true
+
+[[files]]
 file = "mods/lmd.pw.toml"
 hash = "9116ead38df9119fa9d8103c214482aedab1505554865cac1b3bd385019076bd"
 metafile = true
@@ -1549,6 +1583,11 @@ hash = "d6b707c0673cde38765d81a99deb45f213e0f8ea1842784310bb5ab311fefe5e"
 metafile = true
 
 [[files]]
+file = "mods/modern-ui.pw.toml"
+hash = "509b9d51823fee255fdb7871d323acd3d95c500e022195098d4ab91d3b6b8df2"
+metafile = true
+
+[[files]]
 file = "mods/music-player.pw.toml"
 hash = "169a4912a359760560a4e7419d90e6d7d8d83238342be5a4793584b7052e8175"
 metafile = true
@@ -1564,8 +1603,33 @@ hash = "73389d33df0e78425c139ae64f2b1b8cfa2dd2e9503c53f5eb47482f7191c722"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "5e3c1bece72d73338583e26b5018819b10eada276ebc07af41d1417f7f8d8d0e"
+metafile = true
+
+[[files]]
+file = "mods/pluto.pw.toml"
+hash = "c90d1f76411f74e449eb7a170406303b8106b743e45d1dbb6641fd4e6f2702cd"
+metafile = true
+
+[[files]]
+file = "mods/reforgium.pw.toml"
+hash = "fa67ee268eb8746d34bf965162c5a058da1ba465538ff0dce73da70c6c2d8902"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "3c827ff9fbf2b5bd9aaa1eedd0e246fbe15e76307de20098ec4e2f27ee18a415"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "e2e2e14e86490dad80d8d6d8d16915070ae6669a12292629931205f6a929d4d4"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "9435f9fc89e8c694bfb896dbe51e1bb92955b37a2407da3a89b200afdf5c4b4e"
 metafile = true
 
 [[files]]
@@ -1579,8 +1643,18 @@ hash = "ab9337fd39c6bab31b358f7866aebd4f9f79dcbe05a585f7ed09ae475b630a66"
 metafile = true
 
 [[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "f8f7cbc0daf05063e9d314d9492a87b2484d97e812a418d9a07b9099bb664021"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "c0e3742de5b13c1526799649510b7f573bb4bb340527df9eb21579fc71a4605d"
+metafile = true
+
+[[files]]
+file = "mods/true-darkness.pw.toml"
+hash = "564fc6925be3b07a5e2a5d215dfe0643a515f0822446447198ef480126afcf4c"
 metafile = true
 
 [[files]]
