@@ -21,6 +21,10 @@ file = "config/eyesinthedarkness-client.toml"
 hash = "030ee3fc2f9bef247eeddd0b9d172338e05bf67714a6f78a8efa582ce828b36a"
 
 [[files]]
+file = "config/sereneseasons/fertility.toml"
+hash = "e888965a1683817f3e14996e816b3c6144336aa7198b350e88360aa699d569db"
+
+[[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
 hash = "0a3a890c96243f8bcc893ce2badf876adf302c7ae9f303dd54595b2b444617eb"
 
@@ -1454,7 +1458,7 @@ metafile = true
 
 [[files]]
 file = "mods/bunch-o-bugs.pw.toml"
-hash = "466cd84dc937903c319885915ccbd00cb4236ab4b4f51ee9d32573fd6cae8a28"
+hash = "4efca776498b6467eeec15bfd6de0935b0e276f5d54a02be783bd5aa8a393035"
 metafile = true
 
 [[files]]
