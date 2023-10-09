@@ -1693,11 +1693,6 @@ hash = "d3b835c39de7ef5be71391333e8dec0d72ea44e1c5d24b7bea911769c5adf46c"
 metafile = true
 
 [[files]]
-file = "shaderpacks/apollort-lite.pw.toml"
-hash = "4f2bdd4d260622b11a418d4f754c447364f98102c9f321f489d6daa113bc6342"
-metafile = true
-
-[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "fe25dd4c082ac2195ec1f473f0390e2befa36a9a3743d27005701adf53f7aeea"
 metafile = true
