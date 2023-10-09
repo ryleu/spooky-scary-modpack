@@ -14,7 +14,7 @@ hash = "0db28b852e68e602e80940bc108ec70784d8975a8921d80678a0b24b3e088fd9"
 
 [[files]]
 file = "config/eyesinthedarkness-client.toml"
-hash = "030ee3fc2f9bef247eeddd0b9d172338e05bf67714a6f78a8efa582ce828b36a"
+hash = "7d4683a97068f7344436eee4845787cd973ac833d514fe39e4fff86b88bcc5da"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -22,39 +22,39 @@ hash = "e888965a1683817f3e14996e816b3c6144336aa7198b350e88360aa699d569db"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "0a3a890c96243f8bcc893ce2badf876adf302c7ae9f303dd54595b2b444617eb"
+hash = "2db90078d897fd61700e393a7f37ef9f8eccd612e2d55fcbd80de43cfb5a3f37"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "ef27f169ed645e3c5cf4a2ce5f0b75653accab1439c69f0e1929b474cb003ebf"
+hash = "92bf0fc3cc8766d3b2a0f4d607fb7480e5170dbda2fd8af90e763d796fda6452"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "0226d3077aba0fdda5752ee26e8fbbda78f897b69398a4d3d0805f3a699031f2"
+hash = "5afed87772e1d1500c49015a491fa8f56c394c0cbb7748f78c774c00a1e1f373"
 
 [[files]]
 file = "config/spiders-2.0.toml"
-hash = "621f506f43920b7b0c337e5de512f65040bc89a15f6682df8126c4f14e4a5ac4"
+hash = "d802de39aad74fb7d43eb533ae82d605776a3f0934d9c516f04e2c7a9ef0c0f7"
 
 [[files]]
 file = "config/zombieawareness/ClientConfig.toml"
-hash = "e96e0f3ce6fad0697e7d8412573f407bf64c419e2959308c0c5062ab61535336"
+hash = "ad331ad4b1cdcc398c7239b5667395b2adc0d74bf19972d733c5eea2653f50b5"
 
 [[files]]
 file = "config/zombieawareness/Features.toml"
-hash = "87834adcf656c3b2af65a99e28ab3d17e73494388ecf1827b96ba96c17451232"
+hash = "e4069a62bd865323a1422081c23fe7777bfef2613ec2e504cdef4cc1f52d4125"
 
 [[files]]
 file = "config/zombieawareness/General.toml"
-hash = "b402e4fa64030b2f1454904370f1742fd888d99c9524e49c2836864e58a15e32"
+hash = "990c764f26b2b8e47d6d5be5edabe0d4dcd369193cdd1a49f7f9c0fb1b9e35e6"
 
 [[files]]
 file = "config/zombieawareness/MobLists.toml"
-hash = "296f9d82937f5caf307088a799f38b44764a839604534be0789814e791638241"
+hash = "c6eba7f9a9b987b4a52a3a32e4af56a6dd6ab0d26e2770ac55b7d4e3e1165a0c"
 
 [[files]]
 file = "config/zombieawareness/PlayerRulesAndLists.toml"
-hash = "76d3d25b3e7e4885ae4a2695dc039da81139c8bca1216e65d8332df9c43f2751"
+hash = "2cf7051648069a23b26eebe7f5156317e246ef11d663322d6a0770d2b32a6488"
 
 [[files]]
 file = "global_packs/required_data/data/minecraft/tags/functions/load.json"
@@ -1426,7 +1426,7 @@ hash = "cdfbcd765ea4f853185801f2d20c325f3ef822aea4208d64df0a73ad5dd28fde"
 
 [[files]]
 file = "global_packs/required_resources/EnhancedAudio/pack.mcmeta"
-hash = "df22093b927766206a97316c5e32d2f41748e3b678822d61b382808cfc486288"
+hash = "423e37fec980d41e5fb52437e933d5c0b5cde262dbe6a9b7af69d4b9f70319e6"
 
 [[files]]
 file = "global_packs/required_resources/EnhancedAudio/pack.png"
