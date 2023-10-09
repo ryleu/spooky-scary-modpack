@@ -1433,6 +1433,11 @@ file = "global_packs/required_resources/EnhancedAudio/pack.png"
 hash = "a6103839361a3990e502870a831d06de8cbdf4701591270c0695798ee1e5c8a7"
 
 [[files]]
+file = "global_packs/required_resources/patrix-32x.pw.toml"
+hash = "a2258e9fd73f499ae26474be9401e78b73b0f505f810dc68395d758b9250040d"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "078012b47a997084ae5e7f47d519ff277b6e46880110a9f912cc5378603f2b26"
 metafile = true
@@ -1685,11 +1690,6 @@ metafile = true
 [[files]]
 file = "mods/zombie-awareness.pw.toml"
 hash = "d3b835c39de7ef5be71391333e8dec0d72ea44e1c5d24b7bea911769c5adf46c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/patrix-32x.pw.toml"
-hash = "a2258e9fd73f499ae26474be9401e78b73b0f505f810dc68395d758b9250040d"
 metafile = true
 
 [[files]]
