@@ -1583,11 +1583,6 @@ hash = "d6b707c0673cde38765d81a99deb45f213e0f8ea1842784310bb5ab311fefe5e"
 metafile = true
 
 [[files]]
-file = "mods/modern-ui.pw.toml"
-hash = "509b9d51823fee255fdb7871d323acd3d95c500e022195098d4ab91d3b6b8df2"
-metafile = true
-
-[[files]]
 file = "mods/music-player.pw.toml"
 hash = "169a4912a359760560a4e7419d90e6d7d8d83238342be5a4793584b7052e8175"
 metafile = true

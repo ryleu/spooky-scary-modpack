@@ -111,10 +111,6 @@ name = "Memory Leak Fix"
 url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/AK7fR5Ja/memoryleakfix-forge-1.17%2B-1.1.2.jar"
 
 [[mods]]
-name = "Modern UI"
-url = "https://cdn.modrinth.com/data/3sjzyvGR/versions/IRhXWSci/ModernUI-Forge-1.19.2-3.8.2.2-universal.jar"
-
-[[mods]]
 name = "Music Player"
 
 [[mods]]
