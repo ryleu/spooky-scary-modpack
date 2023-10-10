@@ -6,6 +6,10 @@ url = "https://cdn.modrinth.com/data/r0v8vy1s/versions/v9lKbHW6/alternate-curren
 name = "AmbientSounds 5"
 
 [[mods]]
+name = "AppleSkin"
+url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/forge-mc1.19-2.4.2/appleskin-forge-mc1.19-2.4.2.jar"
+
+[[mods]]
 name = "Architectury API (Fabric/Forge)"
 
 [[mods]]
