@@ -57,23 +57,23 @@ file = "config/zombieawareness/PlayerRulesAndLists.toml"
 hash = "2cf7051648069a23b26eebe7f5156317e246ef11d663322d6a0770d2b32a6488"
 
 [[files]]
-file = "global_packs/required_data/data/minecraft/tags/functions/load.json"
+file = "global_packs/required_data/spooky/data/minecraft/tags/functions/load.json"
 hash = "6f62dbc1877421e89feaaf62660dfe144faab4e9b64d2a52919b115c538deaa4"
 
 [[files]]
-file = "global_packs/required_data/data/minecraft/tags/functions/tick.json"
+file = "global_packs/required_data/spooky/data/minecraft/tags/functions/tick.json"
 hash = "b08db67a8199c843440a68909f413641fc76956be57dd96d2f890b55fbc937c5"
 
 [[files]]
-file = "global_packs/required_data/data/spooky/functions/load.mcfunction"
+file = "global_packs/required_data/spooky/data/spooky/functions/load.mcfunction"
 hash = "95a2c4e4b89a2efee0a334bb099ba1425a6230c6525c9d7cee5522b3cc42a949"
 
 [[files]]
-file = "global_packs/required_data/data/spooky/functions/tick.mcfunction"
+file = "global_packs/required_data/spooky/data/spooky/functions/tick.mcfunction"
 hash = "bf6cc626250f959093e31606be6950afa94a5af979ffc4f3882949b673e25ef2"
 
 [[files]]
-file = "global_packs/required_data/pack.mcmeta"
+file = "global_packs/required_data/spooky/pack.mcmeta"
 hash = "8fff4e58e87d73c0807f5421b2f008db5ee3b57cc3c4f773cc6504a2a3d9502d"
 
 [[files]]
