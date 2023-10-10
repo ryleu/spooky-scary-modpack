@@ -1663,11 +1663,6 @@ hash = "3ddad767952feeccb9792895f04c33e4d4dde8e30b2cccb20a4b94a64f6b57c9"
 metafile = true
 
 [[files]]
-file = "mods/weeping-angels.pw.toml"
-hash = "c5a4afeec11c7dafc90eae2b201ff1028e529602b2510cf59c6bafef4b600635"
-metafile = true
-
-[[files]]
 file = "mods/whisperwoods.pw.toml"
 hash = "4043a9593fb5e1a5a8faa8b688f588b160d812feff378032f4ba07ae8676ad60"
 metafile = true
