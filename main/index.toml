@@ -1698,6 +1698,11 @@ hash = "d3b835c39de7ef5be71391333e8dec0d72ea44e1c5d24b7bea911769c5adf46c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/ambientcaves.pw.toml"
+hash = "858294f4ae414abf8a0b85abd66c359958fe3e286ee97a4673c5abc68b88e00f"
+metafile = true
+
+[[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.0.1.zip.txt"
 hash = "2b4aa1f3005cdf574f0c8c8e300777a3c6c5fbc4dfce72d06c17d12190a66540"
 
