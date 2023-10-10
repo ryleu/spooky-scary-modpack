@@ -1688,6 +1688,11 @@ hash = "4043a9593fb5e1a5a8faa8b688f588b160d812feff378032f4ba07ae8676ad60"
 metafile = true
 
 [[files]]
+file = "mods/y-is-there-autojump.pw.toml"
+hash = "2e251b41bdf69916f176e9dd52cf5c06c22d12e1f774887499fdb5621f10e7e2"
+metafile = true
+
+[[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "b3d23826bc8dcea21e068ed4bef034e069420be4e502924b5df89af184afd88f"
 metafile = true
