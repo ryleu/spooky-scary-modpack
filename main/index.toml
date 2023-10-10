@@ -1528,6 +1528,11 @@ hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
 metafile = true
 
 [[files]]
+file = "mods/fog-looks-good-now.pw.toml"
+hash = "8f312c7e7a211f270e8260c0e7ba8236f8a1f473ff15e3029f6086d7e70b4f20"
+metafile = true
+
+[[files]]
 file = "mods/from-the-fog.pw.toml"
 hash = "30e59165fb662b97599cfaf8afbee50cf9ec5da34f03e7af2bdadd00fcdb93c3"
 metafile = true
@@ -1686,6 +1691,10 @@ metafile = true
 file = "mods/zombie-awareness.pw.toml"
 hash = "d3b835c39de7ef5be71391333e8dec0d72ea44e1c5d24b7bea911769c5adf46c"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.0.1.zip.txt"
+hash = "2b4aa1f3005cdf574f0c8c8e300777a3c6c5fbc4dfce72d06c17d12190a66540"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
