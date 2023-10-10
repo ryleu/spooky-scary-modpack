@@ -1628,6 +1628,11 @@ hash = "c90d1f76411f74e449eb7a170406303b8106b743e45d1dbb6641fd4e6f2702cd"
 metafile = true
 
 [[files]]
+file = "mods/realistic-torches.pw.toml"
+hash = "36593f276d3f0c0cb8de488d39f8387775e9e33a7e09ed1f25f7a54897ecc93c"
+metafile = true
+
+[[files]]
 file = "mods/reforgium.pw.toml"
 hash = "fa67ee268eb8746d34bf965162c5a058da1ba465538ff0dce73da70c6c2d8902"
 metafile = true
