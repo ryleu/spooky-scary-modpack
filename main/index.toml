@@ -1453,11 +1453,6 @@ hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
 metafile = true
 
 [[files]]
-file = "mods/biomesyougo.pw.toml"
-hash = "92ef5eeacae2ae73c478e5b829a03e91f2b0a364cf2c72bd75884b537ae720ca"
-metafile = true
-
-[[files]]
 file = "mods/bunch-o-bugs.pw.toml"
 hash = "4efca776498b6467eeec15bfd6de0935b0e276f5d54a02be783bd5aa8a393035"
 metafile = true
@@ -1500,6 +1495,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "c3906b5494fc9ff2765c2f9f656153ca0c6101b923a6719ad5df6d58eeace977"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "195cbb146d30bd6f51a00e08b18403640212d1e227da6cc45b5ecbf23ed3f398"
 metafile = true
 
 [[files]]
@@ -1648,8 +1648,8 @@ hash = "f8f7cbc0daf05063e9d314d9492a87b2484d97e812a418d9a07b9099bb664021"
 metafile = true
 
 [[files]]
-file = "mods/terrablender.pw.toml"
-hash = "c0e3742de5b13c1526799649510b7f573bb4bb340527df9eb21579fc71a4605d"
+file = "mods/terralith.pw.toml"
+hash = "56f4fd4f1acc6cffb7769ec153b033963321fa78d3cb60a352b5f6af49938bbb"
 metafile = true
 
 [[files]]
