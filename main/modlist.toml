@@ -54,8 +54,16 @@ name = "Entity Collision FPS Fix"
 url = "https://cdn.modrinth.com/data/GiriLmaY/versions/1.0/Entity_Collision_FPS_Fix-forge-1.18.2-1.0.0.jar"
 
 [[mods]]
+name = "[EMF] Entity Model Features"
+url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/KKMsC88r/entity_model_features_forge_1.19.2-1.0.2.jar"
+
+[[mods]]
 name = "Entity Culling"
 url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/WR6z6MYC/entityculling-forge-1.6.1-mc1.19.2.jar"
+
+[[mods]]
+name = "[ETF] Entity Texture Features"
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/tHwXqOG3/entity_texture_features_forge_1.19.2-4.5.1.jar"
 
 [[mods]]
 name = "Fastload"
