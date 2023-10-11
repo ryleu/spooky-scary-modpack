@@ -1,0 +1,13 @@
+name = "Y Is There AutoJump"
+filename = "yisthereautojump-forge-1.19.2-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/D3W7NSps/versions/k9OEShQn/yisthereautojump-forge-1.19.2-1.2.1.jar"
+hash-format = "sha1"
+hash = "6601617bac2273224197e969f016eb341fe1b1de"
+
+[update]
+[update.modrinth]
+mod-id = "D3W7NSps"
+version = "k9OEShQn"

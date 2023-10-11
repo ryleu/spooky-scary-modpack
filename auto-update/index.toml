@@ -1,0 +1,1727 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/ambientsounds-client.json"
+hash = "c85552c547b741197b3f6f40d45039a0e51eb62fc661aa8be909b5fe597f115f"
+
+[[files]]
+file = "config/enhancedvisuals-client.json"
+hash = "7bea19a1d39452e52c7f165badd47db0f3e42992ec474c60f8b16f3e2dba9cef"
+
+[[files]]
+file = "config/enhancedvisuals.json"
+hash = "0db28b852e68e602e80940bc108ec70784d8975a8921d80678a0b24b3e088fd9"
+
+[[files]]
+file = "config/eyesinthedarkness-client.toml"
+hash = "7d4683a97068f7344436eee4845787cd973ac833d514fe39e4fff86b88bcc5da"
+
+[[files]]
+file = "config/sereneseasons/fertility.toml"
+hash = "e888965a1683817f3e14996e816b3c6144336aa7198b350e88360aa699d569db"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "2db90078d897fd61700e393a7f37ef9f8eccd612e2d55fcbd80de43cfb5a3f37"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "92bf0fc3cc8766d3b2a0f4d607fb7480e5170dbda2fd8af90e763d796fda6452"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "5afed87772e1d1500c49015a491fa8f56c394c0cbb7748f78c774c00a1e1f373"
+
+[[files]]
+file = "config/spiders-2.0.toml"
+hash = "d802de39aad74fb7d43eb533ae82d605776a3f0934d9c516f04e2c7a9ef0c0f7"
+
+[[files]]
+file = "config/zombieawareness/ClientConfig.toml"
+hash = "ad331ad4b1cdcc398c7239b5667395b2adc0d74bf19972d733c5eea2653f50b5"
+
+[[files]]
+file = "config/zombieawareness/Features.toml"
+hash = "e4069a62bd865323a1422081c23fe7777bfef2613ec2e504cdef4cc1f52d4125"
+
+[[files]]
+file = "config/zombieawareness/General.toml"
+hash = "990c764f26b2b8e47d6d5be5edabe0d4dcd369193cdd1a49f7f9c0fb1b9e35e6"
+
+[[files]]
+file = "config/zombieawareness/MobLists.toml"
+hash = "c6eba7f9a9b987b4a52a3a32e4af56a6dd6ab0d26e2770ac55b7d4e3e1165a0c"
+
+[[files]]
+file = "config/zombieawareness/PlayerRulesAndLists.toml"
+hash = "2cf7051648069a23b26eebe7f5156317e246ef11d663322d6a0770d2b32a6488"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/minecraft/tags/functions/load.json"
+hash = "6f62dbc1877421e89feaaf62660dfe144faab4e9b64d2a52919b115c538deaa4"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/minecraft/tags/functions/tick.json"
+hash = "b08db67a8199c843440a68909f413641fc76956be57dd96d2f890b55fbc937c5"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/spooky/functions/load.mcfunction"
+hash = "d23d718c5942840e75dbff4f92f11d8516253e5af079c9023c5cc8f6c3926b37"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/spooky/functions/tick.mcfunction"
+hash = "bf6cc626250f959093e31606be6950afa94a5af979ffc4f3882949b673e25ef2"
+
+[[files]]
+file = "global_packs/required_data/spooky/pack.mcmeta"
+hash = "8fff4e58e87d73c0807f5421b2f008db5ee3b57cc3c4f773cc6504a2a3d9502d"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds.json"
+hash = "1dbe5572eb6272b8c7a1f9d4547afefe975fe023b8d5c2354dbc0f0d84116d21"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/cave/cave1.ogg"
+hash = "e5a6083d116585a690c0fef18fa292e7d5f9e7530d62fdaa4260c8c4e39a4f52"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/cave/cave10.ogg"
+hash = "c33871c294d186843d09eefd831353e0e1cda41cbf369763b9247a89bcca2c79"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/cave/cave11.ogg"
+hash = "7a6334ff39a3d361ea9c812ec9ae1bc0fa369baf7e15b6f2a98787dc05ce6e13"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/cave/cave12.ogg"
+hash = "c54f39c7fad4436a7cf174b179b979005729edb3b0e587e4ad62dde14e89cce2"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/cave/cave13.ogg"
+hash = "defac096605c8e196b6dc01ac6b39205f279b3be4269630c4e3140cc5d365ed6"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/cave/cave14.ogg"
+hash = "cfcf35793d8ef7a0586fb3d5eff710f28f38651cb8de0841a7d57b674b2d5d3d"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/cave/cave15.ogg"
+hash = "1a47addf60494ed2a429a270e184d28f5740ce28348c273e2739f13d124e3add"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/cave/cave16.ogg"
+hash = "83d99dc6e384e3daab6d3b105e21cb4a840d3617d1ddaf6f2278c184ef959ea0"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/cave/cave17.ogg"
+hash = "1cafb7d136caadae6281ef5488168cdad9654039b57d3479d1e06edfeb7fc53c"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/cave/cave18.ogg"
+hash = "08376ece48d96f8c7241b2bdbf1b06a5b377b5fd89c71657881dda9d81535817"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/cave/cave19.ogg"
+hash = "6ab71ab64ec9d0a5a14f46bdd606656787a2989cbe13c51e1f66cbe8b47934db"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/cave/cave2.ogg"
+hash = "393c2945034ea0d07e7e3472795848193804be07efc2d17f6386fe6fc26acc3f"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/cave/cave20.ogg"
+hash = "bd92af1ed97f59a66bbbc63d904d02adf62eabaed76525c3a49f94e09b3c7757"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/cave/cave3.ogg"
+hash = "380430699849aa5585a66f52a0a590876d60635585bb84f5dc1ed645efdf67bc"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/cave/cave4.ogg"
+hash = "d72f3578b4260a8f137af4edc546fd811335258a1a4d453b576cfd8d5ef342ae"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/cave/cave5.ogg"
+hash = "05ff712d25f6721ea48bc48ff02b5f6cab508334454c29978de963409cc93110"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/cave/cave6.ogg"
+hash = "f842932628ac2693a4ff79c5a2e70c018511c75770633cab256967f7f0e5a370"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/cave/cave7.ogg"
+hash = "9b701afcbec2df656d80bb9e54bd5ffb57036183c74e72c4f69514fa0c9b3203"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/cave/cave8.ogg"
+hash = "5bfab7d767ae050c756a37f628db84e838f927e49184b17454edb817e0141a38"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/cave/cave9.ogg"
+hash = "f90683700d21c30cbe61187db1455e6554deb0bd18d177b4ef445725180d03f1"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/underwater/enter1.ogg"
+hash = "654c9c7b2dc4d4b0f6131c2bb15ed9039fb4f18bed37b38511f7fc46c67e30e4"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/underwater/enter2.ogg"
+hash = "9e8f5dabc871b72bb6cd43a120fef244490b304c96558c7f5fa606ae0b2b5ae9"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/underwater/enter3.ogg"
+hash = "c9ab989f7ae4b55b10027407a5755926208a5c9c05a9eb5008682751070f6474"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/underwater/exit1.ogg"
+hash = "1a02e8856a7f58d2eb434c477b11748bc5abb6bdcb06b134a465ae34ad236bf3"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/underwater/exit2.ogg"
+hash = "b19cca18f8bcf42f7b98ff7ef3a583a35d4f7dfb9f51ec6ec8c350f31dae8467"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/underwater/exit3.ogg"
+hash = "a77e5d6d63f06dfca707fcc68ba90e9c2a276d82911256a0e6b40cb6389ebff2"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/weather/rain1.ogg"
+hash = "9e4fb87abad52d88edf533ac273f473951f9079083e20c003e9ce13353d194ad"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/weather/rain2.ogg"
+hash = "58b3d3f1db2d91ff352b93af72d1cbc2ecaf48e72a4215b44099beeca9eb0d79"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/weather/rain3.ogg"
+hash = "dba052b47f8131882c450d050705f8949ceb2e3b767792103ccdd1a30c219c8c"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/weather/rain4.ogg"
+hash = "79de82598f0421275d5807b92c89e86835d0c35317d248a9c1262391b8fe3ff3"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/weather/rain5.ogg"
+hash = "b84020f4aed526dd87051c46398a421635e630bdf978d05686affc6e95ed5b01"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/weather/rain6.ogg"
+hash = "041fd89b93d61e529dbd01d01f2ff16f48853bbd0eedb79d42f97a7ffd7e248d"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/weather/rain7.ogg"
+hash = "b615e49e4b2e44d9b2cbee838bfe03e8030607a5cbd52caa8565efee1c7fcb36"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/weather/rain8.ogg"
+hash = "b83fca2df87e5b7354fcf124c5a641f766f2a85af573787264dbc47350a35fa7"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/weather/thunder1.ogg"
+hash = "60f64120667d4c15bcb117a3c8b79143d7a2925a2edd2a67b26c65838782985e"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/weather/thunder2.ogg"
+hash = "c18d67021f081fe7747599af5928a97216c24fb36c75d8e966c7042662ba1921"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/ambient/weather/thunder3.ogg"
+hash = "1fa5a7e740f35181e9fb91a0b768b12ec694714430cdd6bad86106489b6a2b33"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/blastfurnace/blastfurnace1.ogg"
+hash = "d897ec80b37af294b5cedbd32850983df467a63afa1387b63c37ba9dd5ee758c"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/blastfurnace/blastfurnace2.ogg"
+hash = "60567ac259570ab43181ed7a774057817fbcfba559c72d71939a605aa56606ff"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/blastfurnace/blastfurnace3.ogg"
+hash = "b024f1f48c658a04131e09ac75f1e927cc36f108a0d743b5d8a980976ff58f09"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/blastfurnace/blastfurnace4.ogg"
+hash = "b28ee5b2b0374b805ee55c69a3ab4dd60745971702e035d0b52ab9052c06278f"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/blastfurnace/blastfurnace5.ogg"
+hash = "df17885216244a96350cd16aa0ab804a752a36aa026a533380c6d2ff0245aee7"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/brewing_stand/brew1.ogg"
+hash = "b0d7cebce80fdde90f3217f08a7d006cb4b57ce6146f741bfe1fd2224e1bb126"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/brewing_stand/brew2.ogg"
+hash = "fa6272dbe628b67c576aa78bb3e909c92363d8ed38e0ed4ed6a218bec5de6aa8"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/campfire/crackle1.ogg"
+hash = "0c9f9f6acce11d2d47f0eba7712c52c08f8ecf5d52598ab6deb6bc494bd05966"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/campfire/crackle2.ogg"
+hash = "b8b65ed8eb00fd654a9886022b1eaa0f4cc73d6d53ecf37658ae03bd813fa165"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/campfire/crackle3.ogg"
+hash = "a4353c653020a440658dc06d05c2d80054bf9f417c81bde2ea4f9bf9f4d5596c"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/campfire/crackle4.ogg"
+hash = "d1eea003cb65691c914b19c0fec0d40fd5a217038664c92be1bd8ac6c12f9b9f"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/campfire/crackle5.ogg"
+hash = "52cd99bcf6a7e9c0ad235245121227936d7e46fa9c828fd53bc6502dc3387ea1"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/campfire/crackle6.ogg"
+hash = "12f088f04205e118ba30ccd817177d760be938b6c7ff4f208defd11fd06d9ce4"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/chest/close.ogg"
+hash = "a6da30b8e56b9b3809e9d5ed0469174285fee12114c9d5f37af3381bb21de2be"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/chest/close2.ogg"
+hash = "095e289d65589f5a49c99d2cb1204223e7837942d1c1b5f7ccb3b15c0525c933"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/chest/close3.ogg"
+hash = "1e018ca4f65d5ed94504fbd675381c577ad1abc4032905e09696db09974c761e"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/chest/open.ogg"
+hash = "7093ad28d0fb9292f748a61376b3e114899df25136f7e73488cfe86731a39a75"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/composter/empty1.ogg"
+hash = "7d7b4bd667383343cd3b34182e116390e69fdf5a543853fcebf583131623c36c"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/composter/empty2.ogg"
+hash = "429e361c7306fa8389f94bba93538edddc50262d416cdbc81a63f91aa4633108"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/composter/empty3.ogg"
+hash = "332fe188a39ac5107185e76a7a9e053588f5b5c000efa5f892133c52815dd613"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/composter/fill1.ogg"
+hash = "836001f9be636faf5bd775cdb24f51d8e92d192106b636e8d0c85f4c66f791ea"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/composter/fill2.ogg"
+hash = "61b41541ef43490b3c60061435859fe5d14794b458327bc069ecf7cb7d525120"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/composter/fill3.ogg"
+hash = "583b8dda4c547779d2de149d6ef9283a7b7345023168a9d0a50deaeaa47ed788"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/composter/fill4.ogg"
+hash = "8d961c63da8ccf203cf47d35b322bcfdb3635e3d9556261a674f34d8cf7d1210"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/composter/fill_success1.ogg"
+hash = "697893a4285a045965f799265c5fc7193bb9db6c2815f86d3d4ba92f2a41bee9"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/composter/fill_success2.ogg"
+hash = "73fe71e6c6abf595dbcab332d69635389b9e6464ebf9405e4eaaebab75cdde16"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/composter/fill_success3.ogg"
+hash = "1b2831708fef6015b15a80572ecf19f22d3c93fc5c5857abd2de680d49237640"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/composter/fill_success4.ogg"
+hash = "2150dfd59838799f9a00f497191345aeb4fd78a98212485236856010aa727e6e"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/composter/ready1.ogg"
+hash = "379e19f3c8d5bc4cbfc49f822f5452ab1427d2f7aae67ce6b232ba1ea9c65cf2"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/composter/ready2.ogg"
+hash = "697a2da059e19b8771d4f0b21a8293d0d1825434ab50afae25746c21d9b7d11b"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/composter/ready3.ogg"
+hash = "3efa6e729c37d7cb150081d9df3976f44638fcd99134a2f965cb7dfd3c9b18d1"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/composter/ready4.ogg"
+hash = "d7879ce6d17f247d29b5b93c48d2d8b090e5e1f20b0995f2657076df1da5777a"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/furnace/fire_crackle1.ogg"
+hash = "7db59bb4b5143f0aff1c3f5232a4ec0d4e509b5c6a5a3a316bca65343e96c0e7"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/furnace/fire_crackle2.ogg"
+hash = "a44a6b0b4c91011015100a47209c427967efa8eebb6a1dff21d02374f67f7410"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/furnace/fire_crackle3.ogg"
+hash = "f60ca2ffe04fe87189c9eacf0c18556b10c82f930cc93317c5e28504e170931a"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/furnace/fire_crackle4.ogg"
+hash = "f0eb0b2b36e8d70bc9522b5abc32ac9af8092db6027aec4fad6191f4c39edcf7"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/furnace/fire_crackle5.ogg"
+hash = "203d70f5c5893427da6e85bac5c62d82cc4d033942a9acccc61278bccf84012c"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/pumpkin/carve1.ogg"
+hash = "0c382f40b4b96cbf29f8accc1592296635263076821cc0192c35bb4cd7c9614b"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/pumpkin/carve2.ogg"
+hash = "f441c902b668ff794216c171bb94eaa0db10cf6bf519150018a4760fd7bdeb5c"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/smoker/smoker1.ogg"
+hash = "1c5c9110be04968eeace6d6e1bf87144b66f90c792c96e85c269b5841f90bcef"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/smoker/smoker2.ogg"
+hash = "a3846d318e740024d73ac2057a271b0e672d8038b4efce44205f5c6655dc3f85"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/smoker/smoker3.ogg"
+hash = "6d4c75a2ce5a4b1d632e54166a4f147bcf7bb568e81c13a64e03487d0772b446"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/smoker/smoker4.ogg"
+hash = "76e370919a2886b30326814f89b21eaf8ae9e72f99dabefa45cb47b92930de41"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/smoker/smoker5.ogg"
+hash = "247ee614768e0397b132ac6d7fc46efca6b1d6277e3037c82f495ba6c27cce3b"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/vine/climb1.ogg"
+hash = "ff48370f18b3aa808fa15fb14e8e51aec6ca6b9601102ea8799a8babd59e701b"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/vine/climb2.ogg"
+hash = "7af5aa1b447921b7941109b439461ef450082b6a3eb847a8ac53e88b599d399f"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/vine/climb3.ogg"
+hash = "ff63acffbc363522e67abfcb93fe1857d0f4f65d927008542087d01852fe997a"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/vine/climb4.ogg"
+hash = "2d0aad2f785dbdc57a1a38c10a1a1b6e99b9f6ba8dff41716ea341b033451e58"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/vine/climb5.ogg"
+hash = "da7af0b66d371c3aa5615e062f573069b6283e325a68b4d197cc746e458ac078"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/vine/tear1.ogg"
+hash = "8ef488d98d2a2e4f5ae7afd2dabef048cf7bff6c4c043781463768c5f15dcee9"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/vine/tear2.ogg"
+hash = "94e8d73924075bcfab300575c9cf7a1faadcf7e5d62f44689b02b6dbaf120713"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/vine/tear3.ogg"
+hash = "11b4a04721960ba5de15b8c8f677c4f2a8ea5460efdfd22f851ec19a315d29b1"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/vine/tear4.ogg"
+hash = "9c187daa1a5d05d12cb9ae0805c0493913aaacda780b550a8421b45cf7bc6a08"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/vine/tear5.ogg"
+hash = "1ffec5d54bc21ec4f43bf0718af649a5a92e379275b0e760353f104aa5ec6545"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/wooden_door/close.ogg"
+hash = "59e3a1b253ada3c5a4f141d36e1b203b8d3042f714452e149323fbd5bebda102"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/wooden_door/close2.ogg"
+hash = "dc1e7def14a3214edd8ef8a4ba352dff27dfaa94a0986cb440dcb98f2fcd9194"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/wooden_door/close3.ogg"
+hash = "f65276e7ba5c339cacd0546be742bf246209d6d93c5dd14a6ac59ff50386906d"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/wooden_door/close4.ogg"
+hash = "a5a9c7dda5384f3ca4a56f7b34ec9a665673990ece43a92bf5f8210bb95ee95b"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/wooden_door/close5.ogg"
+hash = "dc1e7def14a3214edd8ef8a4ba352dff27dfaa94a0986cb440dcb98f2fcd9194"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/wooden_door/close6.ogg"
+hash = "a5a9c7dda5384f3ca4a56f7b34ec9a665673990ece43a92bf5f8210bb95ee95b"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/wooden_door/open.ogg"
+hash = "b6f21d8ec10b737dff98c3c762ce25180732b25b8f767646d9c2e5c03cd1b11d"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/wooden_door/open2.ogg"
+hash = "565b880deea1f44dfc50ee093613057f70d8b2820bf030afc3eb5e13c0247b0f"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/wooden_door/open3.ogg"
+hash = "2bd6dd16a319b4b64b33880e39df2ae10fdc185dfb2153bd25001ad626151323"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/block/wooden_door/open4.ogg"
+hash = "b5513789df5ab70429375d3781b50356644900288ae52f22a0184bd5930f157a"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/damage/fallbig1.ogg"
+hash = "1de1ba8c73e9fbcf89586cf31856a52b775e8786e1f8ec8f506f427a925856f0"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/damage/fallbig2.ogg"
+hash = "9aabecad124c84001517bdc97e777dc224146c6bc817a007e48aed9a3c7887a7"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/damage/fallsmall.ogg"
+hash = "a8ba65d28d5574a1e06dbcbef2955d7d72c598dfe6f9492e18906ef684ba5ed2"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/damage/hit1.ogg"
+hash = "221f6ecf442ee11f5e276b7985b1c5acd05ea6333828a14bdb393320f0621038"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/damage/hit2.ogg"
+hash = "097b63e33102e0ba7f386e42a85f91a3bcabc467def0e44e281766ade660c2e5"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/damage/hit3.ogg"
+hash = "0c3a382386bdf91d1c4e5ee0aac7f639353c3b1f3b4890a3c486e044c8c300d4"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/cloth1.ogg"
+hash = "0eed145d9f83794255aef528be5fb5a8c236511adcbf2b42b0cf4fa1eabbb177"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/cloth2.ogg"
+hash = "18711778ceadb4c4971329e813914f47532dd2db7fa8b3f34f9701f4a4b100e7"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/cloth3.ogg"
+hash = "496110ee1fced0580037abd155b795b5368b31400a6af0b93d1baf8c1787e752"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/cloth4.ogg"
+hash = "bb8aec1c7371a1ad693aca9a74512be1d7581078b2f3f49b7810e4487f470915"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/glass1.ogg"
+hash = "eb6d182184a512cc856f7629e70c752b427e076f629cdba707e58c2287ab99a2"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/glass2.ogg"
+hash = "0426ab8bada350f5034cbe0195eb7d655d843ea00d8e3d3d3aa6b79ffda1de5a"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/glass3.ogg"
+hash = "0ab699af313816123677b98b5e1af83e0ff53ab91bcc052ecfd523448d7c0f4b"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/glass4.ogg"
+hash = "7a07ad4b22ec0e2c7a6c866b6d864759f7a33f35bb584a06f367ee84916bbc24"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/grass1.ogg"
+hash = "7b9d87a125ee947cce1673bef1dc6d4c09fccd11534e5c3850144370648934d8"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/grass2.ogg"
+hash = "bdd0e33a48aaf7e662504d2d4033fb19c5b162856cf326d063452d9d94aa4755"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/grass3.ogg"
+hash = "451833e3af3c20d275c7846836132158e6507cb8f39a75061db14dd7f3dbf44c"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/grass4.ogg"
+hash = "0b579daaa7f72c87858a54bf9516c3156434f00a29bec2396159481b99ebe1dc"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/gravel1.ogg"
+hash = "1618a2424c5461aba71f16ca71f0b4ac7a0f2164de9b18de7169fdd375bb2971"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/gravel2.ogg"
+hash = "31952dc86269bfad9503fd7af45106d067e9d2540e6e6901027b7d140b4fa538"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/gravel3.ogg"
+hash = "618ab395fdb0efaf7105411f0b6686e5e78cc6f4ec1d51d15d40baba45418ba9"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/gravel4.ogg"
+hash = "917461d0e199535ec865f166c82b1a39579427c8a41d5cba8f5b88e3e9f65f66"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/sand1.ogg"
+hash = "fff30a6f68fc43717da3d2be77d0534a4f22dab6ad859b246bfeaec3e228b409"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/sand2.ogg"
+hash = "d22f8b4d1b246e18b663269f2a5ddb7732ca0c1849094a29ef8078d48c1e5695"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/sand3.ogg"
+hash = "e402fa05b296f94ed7c229f1b4d374a7d389260fa9a7f1d2eef22440fcfba019"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/sand4.ogg"
+hash = "1cfd518d643be7bef45b788a6fd802f0f2c0bed84462e59a23eae4822860619a"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/snow1.ogg"
+hash = "9dbc97482059dcdce2505efb0f061c7b6004f4511ae5ba00c4ab2987daa67abf"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/snow2.ogg"
+hash = "2a9b3b292ced92df450dfdbda4859d4d97ab8a37cb6add1c1288127e56dfa8b2"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/snow3.ogg"
+hash = "2cdab9ce1dedc47ba7b746fee17713c235bda87708d81e70ebd0c2f3c90e5a74"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/snow4.ogg"
+hash = "2315febde0cc7bff1d029811d984242965f641f402d7afe1cffebadb062d6e0e"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/stone1.ogg"
+hash = "756cd71c4c7b7cbc02d1786a48cb000fcbe9ad7fe7a98add926e1f0a10a28ff5"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/stone2.ogg"
+hash = "5683bc949118f684f02257bd96d2828fed08cc496ed2f06c644ee0653af7cf82"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/stone3.ogg"
+hash = "7b24ade324cd4c55b4789ff816128aae86d9151315ec828a430a265a2bbad532"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/stone4.ogg"
+hash = "c5368431f44aafbadd26334889e24d0ff8916d8cfd65e5e2ba06a0c5609375b0"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/wet_grass1.ogg"
+hash = "aff3179ced3c0e25592054ebb0048e86dca29d602ee8b5f730e87d0a4fe80c91"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/wet_grass2.ogg"
+hash = "c5ad9cacba1aa00cc685f0ab84b4abadc440cf1a02a318289e0d49507df27fd8"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/wet_grass3.ogg"
+hash = "3a8642c68aa7ab736d27587fbd942f32edad5512c82c7a109dacfe75c32df026"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/wet_grass4.ogg"
+hash = "5efec2feff5b3cd9a6ca7d317a4beb2892ec2f9d1329dddf2881cb557a280448"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/wood1.ogg"
+hash = "5cf937a3e73b6557f8e0767149ad9c2f28a88700c1adaf5879895855c8fccbd9"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/wood2.ogg"
+hash = "1d2d52262ee1c1b436177ab25aaab30995a5b3c98adb2306691a6ce2111f01c3"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/wood3.ogg"
+hash = "b8f09156413dbdf7b54e5ad3b430f3529bfdab323510a1ceefcb67ed946830ff"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dig/wood4.ogg"
+hash = "2fdc9d97572516cf7d1eb62f1c2aa49c631a51f6b83f881ec783e6dc29e6db35"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/digbreak/gravel1.ogg"
+hash = "e9abcebf5768582f6d4f518ae577067e9bb45b4392de4b856495a16759a50c8f"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/digbreak/gravel2.ogg"
+hash = "93a7a2ceb509e92a71d7fb008cf939d72bd7a43b1e0a98626759c55a735d73b8"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/digbreak/gravel3.ogg"
+hash = "564a7ff9d54ef234fba7d0ac05467a787dade0fe0fdcc255d3c0062e82516153"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/digbreak/gravel4.ogg"
+hash = "21b1ce5036e6314879a51d17a8497e43f6adda845a035928f4e88f8963865d18"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/digbreak/stone1.ogg"
+hash = "2bb120151811f7c2845ef7b349ff644a3b090d0f4170441e41f0ecadf192b7d4"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/digbreak/stone2.ogg"
+hash = "d660411daee9ce7353ca701d47238edc8cf88dac438fb32f0498b93183255cd5"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/digbreak/stone3.ogg"
+hash = "9ffb0cfce2a522f8a51bbaa9723bb461c142b42e3e802cb59b26aceb43cdd774"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/digbreak/stone4.ogg"
+hash = "1984dd3a71f667b8d2612e538986f357314e9cacf9e2f97ac485c4e9eebc530f"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dighit/glass1.ogg"
+hash = "120ad6074b8e75c1f623e9f1baea47ae591178d62f9de612b2320deba321d55f"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dighit/glass2.ogg"
+hash = "416b9768a2e0865523f1dc158be171585885df378ba8c36f4321325a8f64bfcc"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dighit/glass3.ogg"
+hash = "7426101ba95254a3b1c25f724476956ff1512e1e0dcd8554e305506280e75ef0"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dighit/glass4.ogg"
+hash = "361070274fc907ec99d77ad3eb65ddcdef1dd073b7987acc9e873340374b86eb"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dighit/stone1.ogg"
+hash = "a8fc475a6a49834fc20377ea39012edf9ca047deddf46ec157a218ff87f1b74f"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dighit/stone2.ogg"
+hash = "4e226dba077cff4b3be2d0059b6ce99efa515ae857de02a3ba1831b99e6121ae"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dighit/stone3.ogg"
+hash = "60665175c6be5b6c360ed933cdbaa4324b861c5cd865aa1e7b83c6928d8c8e53"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dighit/stone4.ogg"
+hash = "35fe6074d9a9365949795abddb9538e8e4e406ac23f29b8511e692ed4753ab20"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dighit/stone5.ogg"
+hash = "52653ded371536d20ecde47b0dc70896e3745df60969425674cbb251fd75d21f"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dighit/stone6.ogg"
+hash = "5f2d61d79e5851a2d830306425ebfcfafbc1db1fd50a2efb3747a181dee2a728"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dighit/stone7.ogg"
+hash = "646ea2f8ce96eccc34c813f94f1f9de1be87b74baae360ec41be86fd10cff0ce"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/dighit/stone8.ogg"
+hash = "535532def94072112508b5fde292fb67adb4b243722ce3ae516335d82215f821"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/entity/player/hurt/berrybush_hurt1.ogg"
+hash = "57877d60e207aaa75e2fe29becdd4e2db7f195b41fe4c0a88d8c04e77b58d72f"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/entity/player/hurt/berrybush_hurt2.ogg"
+hash = "6ecbac4d72aa39e0db4b7b4317e0470479c9e2c6453c677038131bfd3fdf6a11"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/entity/player/hurt/drown1.ogg"
+hash = "530fd56d384dae669400425b6f9dfaa7fdd9071ad4a7b7b60d437a8194af9d0e"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/entity/player/hurt/drown2.ogg"
+hash = "b3c44851dbea55b1e8bb46c20904f610806b35b7f8ec813c12e28b939eadd1cf"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/entity/player/hurt/drown3.ogg"
+hash = "7393771042c975bfe85447ce11236c39623f6333dd3e74ebf9b3db51907c0380"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/entity/player/hurt/drown4.ogg"
+hash = "d3ef0bd32be3a61a86f304ddb0dddac1d90a74d31b0830c7c0a74f38b535dda6"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/entity/player/hurt/fire_hurt1.ogg"
+hash = "12c6c1ddfe4ca90b4acfd79e0cb3a5447442bcd6803c431654e167e9cf590f33"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/entity/player/hurt/fire_hurt2.ogg"
+hash = "1f7f3311c6113bc9ee08c714dbf050778dd68f9769cb09e27a937de49fb2fb02"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/entity/player/hurt/fire_hurt3.ogg"
+hash = "a32810f783f609d701dd2af66111d37ee4dfa382ec53d9bd90ddcfe5812678e3"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/fire/fire.ogg"
+hash = "d6a3aa2b85d1a7892119023a4c9fc49a1cd09bd18553f3ef96e2ec68eb05b971"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/fire/ignite.ogg"
+hash = "95c0277a73d49ff9d8daa95b686d4856ed439aa6e886c327a5289cf1c04c67d3"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/item/elytra/elytra_loop.ogg"
+hash = "9c522b479557e5375cb743f7e3460cfc09329f4f1980effba26232f83e4d96ee"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/item/hoe/till1.ogg"
+hash = "00defcf80f3f39190a7fe40e747d0551e9c5aef9c2a597665c70a451222d0610"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/item/hoe/till2.ogg"
+hash = "975e1521aae362bcc60fb3440fe489446e0d8f5f025c4145528bb667e8c697f8"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/item/hoe/till3.ogg"
+hash = "5e3fa7cae440d528147112ae3d3498c1054790184496a288ae87149cd929132a"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/item/hoe/till4.ogg"
+hash = "d822cdd70e5f7b6971337868a1b275a72f637b8f0bd215264b29bbce8a229205"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/item/plant/crop1.ogg"
+hash = "e97720f22566cc1179839d927b9787d7cf8257dcc019d57fefdc58619912b838"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/item/plant/crop2.ogg"
+hash = "18f6c6c7286096b1a462286c1d952ec6e03036d54cc12d10b3305acfe10fba9e"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/item/plant/crop3.ogg"
+hash = "74452ca43116eff955ab9163fd15ca6d9b4d19d95bb844fecd6643ef90eade3b"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/item/plant/crop4.ogg"
+hash = "d90de02ca8621352610a79cbe2c175c74d2acd344db7354b3035f1304725d995"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/item/plant/crop5.ogg"
+hash = "ffd3b576b4e65ba4743d22a361702b05ffc5182cd64ca4591d075f761e411b06"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/item/plant/crop6.ogg"
+hash = "b264a14887ab2bdca114a4dc830b86a6019d87a3b4b5acc091a5278d36022a0a"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/item/plant/harvest1.ogg"
+hash = "65f384a8106bf5a7893beee57d39436afae59ba66506c1d441b88564c3b81028"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/item/plant/harvest2.ogg"
+hash = "bd43c377adce63cf961ff814a91f2cbd5940a04c7ca6c9c61d4256fe76b087ba"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/item/plant/harvest3.ogg"
+hash = "f6e3ef4b85e4cac44eff6167df8b66a79c7d2922eec4fd93ec74fb66ab3650fe"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/item/plant/harvest4.ogg"
+hash = "59522ccb8391b8d5f00e445a1f698d8c1e5286d70f9fb6a46708c7ef07421ddb"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/liquid/lava.ogg"
+hash = "35eb5f34a6c6f5c66ddbc3504b774bc07ce20559d8c06b3468ec64928f8c1555"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/liquid/lavapop.ogg"
+hash = "c0df4abebfd589126bd21fc3433dfff5fcb7ebb0f33efc86649939b873cc20ad"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/liquid/splash.ogg"
+hash = "f6f53eb5b250988dda8954c565c229b25457705cd578644f9aa13203527cd727"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/liquid/splash2.ogg"
+hash = "b9dcddd19971dae26ed7c37154892e68a62a3bcc90f0930d406f50a58c0b4a8d"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/liquid/swim1.ogg"
+hash = "7b0876705b8fe672aee72c4f819db05e69518574ed8b29b0a3b6003f1d878d55"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/liquid/swim2.ogg"
+hash = "27719e634a269f356f20e3fc4c40f4199483167f81cb9c055f601669df9333d5"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/liquid/swim3.ogg"
+hash = "d8eb6ddfce4089e3484980e8bb83e2588dd15fffb8203f4ddbd527cd103cf674"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/liquid/swim4.ogg"
+hash = "f88a2b1fab2f00cec7673afa54c6d46b21a6b6cb80e78ff0dc891f391d242873"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/liquid/water.ogg"
+hash = "fb74bce5e0708fa3c0a8eb5061b4cc5acae8df4722600ce6f2862e2dc7922c87"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/minecart/base.ogg"
+hash = "30b706a5008e3939098045a7e891ab00ab3cfd63d7a4971cff71d1f658b28659"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/minecart/inside.ogg"
+hash = "def149fb2184f3a7d4c5f7756bf4af099a463c91c17e92a758ed29898592696e"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/chicken/hurt1.ogg"
+hash = "4b627705a6f00a67691f636cf2116a524910812af1d0ae07de5fd5b79586ae54"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/chicken/hurt2.ogg"
+hash = "69d61160f3251db6cf59e7a5013ae196a943e22b630678688bb1080656d629fd"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/chicken/plop.ogg"
+hash = "19655cb4fa180ff7b2694aa6258eac5c8c92220ab055b48d364f690b1dcf17bd"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/chicken/say1.ogg"
+hash = "3ce167a6045b9f0ae16446df2b43687a871ecc76772024feb3a0164e35a962be"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/chicken/say2.ogg"
+hash = "6f20d8ab1de9dfb304f8ec6615bdc9cea7e32da4ae3b40e82c7d8c6732cdf8a7"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/chicken/say3.ogg"
+hash = "6ad86899283fac45fb5152c3c579966a402e0afe7930fd1131cf958323ec6213"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/cow/hurt1.ogg"
+hash = "ee49ab2ed690d5e61c35af890e1637603de47a68cf10e4d96cfffee5c3d84f75"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/cow/hurt2.ogg"
+hash = "02b1a787f0a370cd3c058f722d4c67f4e79d7245fd219efbe2f758c04b59d64b"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/cow/hurt3.ogg"
+hash = "c36ccb77bd2c4dd850ba3a8e93162f1a158946478e47515d0f7069f600fbf099"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/cow/say1.ogg"
+hash = "50a7e6dff52d7248355508f22bde34a56e9a7d2c04fb03ea3551902487d08033"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/cow/say2.ogg"
+hash = "6d5b6b71c80f83bb24b2bc9953cc04d4ffac00d7023e8db136409f24177b1cdd"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/cow/say3.ogg"
+hash = "0553f78c32c63487fa7b1bcf6c89ee02cfb7e0123a961326ee1074b2f6bc3e0e"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/cow/say4.ogg"
+hash = "a18884bcac154368b5818f947c9ecaa1d2b9d6a08fcdae9cb792c42e7af7b008"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/husk/death1.ogg"
+hash = "a98f9a7200fffffbc6fcc14fa016af329a623528a1650dbb378ee3ff5131cfd5"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/husk/death2.ogg"
+hash = "a7c2158b2053fcde713dd3d2ac1382d3cd886c09351b6bb0fde948e54adec83a"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/husk/hurt1.ogg"
+hash = "993341936ace7190a8978c122ffebd0bbcff9286001bc09d822c568d88aceed2"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/husk/hurt2.ogg"
+hash = "f435aaa5e0db0b58d9eeadd29e24c7f17b4b1bc70c7cfdc5985a8a96c9683a57"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/husk/idle1.ogg"
+hash = "8a8aeabd7a9fc63d405a9194cb3843354914b64caaf2493feb871c8a6d068d5d"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/husk/idle2.ogg"
+hash = "f35529e93a27e4aeab8eda6ddfb3cc0615644f92c9575fd72326c4cb8ec976c9"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/husk/idle3.ogg"
+hash = "a0a2dfe6a913640ef7d5ee0b2ae97050484dbd833f5e0252be03e24d2f2551bd"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/pig/death.ogg"
+hash = "271b04cb57ea24824ccc8b7543c29ca9bcf7ad2c5f331ddbbca12e7a30805464"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/pig/say1.ogg"
+hash = "98c5aae257ebe3a6d8de728a12d210c5d40aef0dfe56e964e8c82023d6f649ad"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/pig/say2.ogg"
+hash = "69a50d299bfd46e2f14aa483c37283acaa64ac6da5e01bce53a061ee8f2f0b13"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/pig/say3.ogg"
+hash = "1e97692c823d526b60ba108691060dc208da3520b3d5215e7b92623c7444207e"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/sheep/say1.ogg"
+hash = "294562f67c3557a22e1d8f703fae1915c727d38a0979fb7e0a0491f0edb6d85b"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/sheep/say2.ogg"
+hash = "2bcec42c75a63292802f5f8fd013adf25819fffb2c84ac61216377da36cca80b"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/sheep/say3.ogg"
+hash = "9a0659fe51a6912ece769e73527f55c5d0fb4ab6d2ac0e664351731fe1644184"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/skeleton/death.ogg"
+hash = "386c136c9aa80ad6593e6df7ab56c851f036600a5da0e2e9c2c27038a51b55b1"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/skeleton/hurt1.ogg"
+hash = "666a2df22ef789acee59c678354679abe4453d0d6809ef2c6164ebb866daf006"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/skeleton/hurt2.ogg"
+hash = "a2bc579d42189ec8a6527bafa3cce93348cd316a7c5527173228d74255fada1b"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/skeleton/hurt3.ogg"
+hash = "5ec6bd1b2c52a2126a28cf940eb8aed3c563295a425917f73f6ac227ace7e6f5"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/skeleton/hurt4.ogg"
+hash = "2d73b89b003c2a0e26df6480153d65d33e45782ec618333004ed9a26c2f8019e"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/stray/death1.ogg"
+hash = "386c136c9aa80ad6593e6df7ab56c851f036600a5da0e2e9c2c27038a51b55b1"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/stray/death2.ogg"
+hash = "386c136c9aa80ad6593e6df7ab56c851f036600a5da0e2e9c2c27038a51b55b1"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/stray/hurt1.ogg"
+hash = "666a2df22ef789acee59c678354679abe4453d0d6809ef2c6164ebb866daf006"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/stray/hurt2.ogg"
+hash = "a2bc579d42189ec8a6527bafa3cce93348cd316a7c5527173228d74255fada1b"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/stray/hurt3.ogg"
+hash = "5ec6bd1b2c52a2126a28cf940eb8aed3c563295a425917f73f6ac227ace7e6f5"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/stray/hurt4.ogg"
+hash = "2d73b89b003c2a0e26df6480153d65d33e45782ec618333004ed9a26c2f8019e"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/wolf/bark1.ogg"
+hash = "6a183b51bf8ee822c8f88070812944a0a1e219cdade2d25429bb02231d461305"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/wolf/bark2.ogg"
+hash = "7b34606cd86aee76bdd881cf1bf32b59831767b9c0c66182fc8d8b2201d979bc"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/wolf/bark3.ogg"
+hash = "e77478100aeec5f21862135fbf8658715595a18f8cb91112ec6ce84d9cae60c7"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/wolf/death.ogg"
+hash = "7636c2c28b3c8bfc79f4a1c24b222e0f6904e13892bb19833594c1c4c19c4e2d"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/wolf/growl1.ogg"
+hash = "c03e8f0f7dd9372162703a7bfadacbca6b9ad88c62d2be7e6b41df0687d9c448"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/wolf/growl2.ogg"
+hash = "a35e458b1691b903510ba9ac798c87c520751c3d4b0f24b0eb00ed8bcb4ce1e3"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/wolf/growl3.ogg"
+hash = "578e88a9bb6c2502bf20daf3b89ed7b36485b6ba31e541c17c9dfe43a7ec7e22"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/wolf/howl1.ogg"
+hash = "66c59165e4efb111e34a7cb140efc01b5247ffdde009a3a8ee65d4edf8bd1386"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/wolf/howl2.ogg"
+hash = "bb35cb9135c5035c8cb129eff20179f8f37b6ba3d9d0107db8c4e94fdc44ced9"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/wolf/hurt1.ogg"
+hash = "96b21e2f956d30ae4cc4e873b89190e0036b65b4b63ea8d74ba03bf0e373f2a4"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/wolf/hurt2.ogg"
+hash = "6636a7403b8de7df631e51202bf13c1fd456f36d61074a3392275a7d9b352b7f"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/wolf/hurt3.ogg"
+hash = "475050f316779b01272bdb39b0424131bab693c96d1bee9eb5435a3733f74156"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/wolf/panting.ogg"
+hash = "7ba4009b02814e360cd1122e83a9bdc3b7105afc973316dda98108d0d0ff5316"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/wolf/shake.ogg"
+hash = "9f79609146de93fc5cfe4d976f7eb70321dd63a271d6b00c64e00ef2a30b8b15"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/wolf/step1.ogg"
+hash = "1b56d4356adee87775034b826b7fadf2c3247693b9197aff316bf58f8f259c5d"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/wolf/step2.ogg"
+hash = "57cb335d1e22324dd425efc2313493b580f379bfa7fcac0f7dc767e07529cf40"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/wolf/step3.ogg"
+hash = "c385b292324099814f2eb1f3dce09ba65a64813aee7661ec86402e8d95c62a46"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/wolf/step4.ogg"
+hash = "cbb0fd851a60f82ca32d57f65bc0805ca2ea7399c36716ca8697b2091718a710"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/wolf/step5.ogg"
+hash = "0e6410877ea0a0a4441faa7f154f32cdf799307f384ec69763a8fcd5b07cfdb1"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/wolf/whine.ogg"
+hash = "bae7e1a010d5d41de808bace3fcafe965fcb8fca2c0db39e17396db0a4976d18"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/zombie/death.ogg"
+hash = "f1822576a8b131262f12fde76e43ba7f45c0e685287d80cb7266ddb5bd26d243"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/zombie/hurt1.ogg"
+hash = "cfa88e67b98a448bb2d1fe4105845a24989238b644f4d5ff47297f56b4d98b39"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/zombie/hurt2.ogg"
+hash = "da7055d8eda72466821425b7607a2acbcc74b9878c50c2e2692b9eb82b8a5ac6"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/zombie/say1.ogg"
+hash = "53aad42a02fa3cc4ac167dec11185560847d7fb8d2ce96ce7e4062d7ff2c14b6"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/zombie/say2.ogg"
+hash = "ff85159755900376df1091310cd2d90d54c30d281a903e5cbb157472d9697661"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/mob/zombie/say3.ogg"
+hash = "ee94f01fa1c5796eab3419029c0c87fa34f61fde0c06f7fcc39c246937de6fa9"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/portal/trigger.ogg"
+hash = "bbc5fe221fbe063dac7e437ed549c29288550247c3b1b95137fe0f5f18e08073"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/bow.ogg"
+hash = "bbfda966b358111a1dda7879ff07ed31182f3da966a95692f5c0de2dbf5d0d16"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/bowhit1.ogg"
+hash = "e2af3e4ee594934ddafe16c56456967f9a27d1d5d0176239a426b264900176f4"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/bowhit2.ogg"
+hash = "73d66302bed28f3dad1b0263199198aa6c681e87bdb3673abb32f211e2be27b2"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/bowhit3.ogg"
+hash = "3f61cfcf8523a03747304677c5848b41979ca7c2ca01f72d971635e543fed226"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/bowhit4.ogg"
+hash = "61b44ee296bf1116d156051f3b142e1294017a469d8e3f91ef1b3ff90e170b9f"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/burp.ogg"
+hash = "0379cb1f087349d653887fccc04e8fab75d018cd348b1eb8c52e5c6cbff63c18"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/click.ogg"
+hash = "9801666cd129da8aad350da5f25db98231df4f4fb0888686ef218e6d68185697"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/click_stereo.ogg"
+hash = "ade2df37ffb119d6c60095c068708a8fa63a325719b2a6655dbf07aff29b389f"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/drink.ogg"
+hash = "1987e86a7b20ab51ab93c783b4bc4e1b5a9580c08c31e4e4b0315aa20f6b122c"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/eat1.ogg"
+hash = "bd62e7f09c6c5fb5ab4996a473046619deab2d1e1b9af47b861afca99d5059f5"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/eat2.ogg"
+hash = "4ea6509656cbdf7ac7b62683c18e9840ab91f40bf66f684e6977236d16d5b983"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/eat3.ogg"
+hash = "9ed2f709d969c6a7381e05c6b3371dd221ab3fbb23bbaa34f3dcc90729277e80"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/explode1.ogg"
+hash = "ce04ec09a45b0cd923653d03a443b6d5544b603fbdc7e5a59871851d95e7b20b"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/explode2.ogg"
+hash = "72344d8278c67e81ebafb5b510099d821d7ba8d4eb8094e832cf9e984eb4bab9"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/explode3.ogg"
+hash = "5175be264b2cc7cceed496fb7935033bd4b9382906833a28986634808dd2afc5"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/explode4.ogg"
+hash = "48bef2cd49877e69f312bdbd77dd679afbcf3cd2e46dbd57cd35cbe639d3b0b6"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/fizz.ogg"
+hash = "2fcc4117b300abfc3fedfa6b00f10066df64020d037aef1711281c51aac8250e"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/fuse.ogg"
+hash = "192047ffee28f76451facc74ad28a7115ce0101f875d0499010b277c287dccba"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/glass1.ogg"
+hash = "fbcebec6ee8c0529ed7701a88e3f1ab7c76b6d517002f996a283fcc287a5b60c"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/glass2.ogg"
+hash = "cc37ddd0863be0cb966f5de22e6b4134c854eba5cd402710938ea136177409e2"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/glass3.ogg"
+hash = "67a572655684698bb25b4bc73276b79b9e8eb8e09da9d15c7378b3b05a265625"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/levelup.ogg"
+hash = "a222b1a4f8ce03d0ac565f4ffa855e5ac5526c1b9c09f6349bbfd5fa3ef5ab34"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/orb.ogg"
+hash = "2c258084b5b72cc5c55b81f3b3f676d2a7f5bb76795f001fe26785aebdcc2fc6"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/pop.ogg"
+hash = "baa42538b952bdd1f6ed82f6f1b6861faf80666f0963db4d1d1f9f5b7a3d4e85"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/random/splash.ogg"
+hash = "a69de7fcb658c1d4109068cd5b58587e5a0994f316c3613a752dcfb2e8dea339"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/cloth1.ogg"
+hash = "c3529088fe228320b783a33d6f33c3a6767b2828491b7f21c7652bfb1b5c9bff"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/cloth2.ogg"
+hash = "5629e4324c1f0b74b4a382c41b1419582bdcb9d06475da29d2749c23d392e374"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/cloth3.ogg"
+hash = "6d2ddc5a8ad5c27debdaad238072759e303b9cb9ff8f94e394e1a9122b8215a2"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/cloth4.ogg"
+hash = "f3492815c0f48937d0b469f0cbb30624b78d067c1f39b4f9ed11ebaea03bc988"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/glass1.ogg"
+hash = "847dc638e1afc51ff9fb13a504ca3d90b349a85353b211bd437b7a4e972e0ca6"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/glass2.ogg"
+hash = "d81fccf7839469a42364a41d5e004c1c17e6aa4251eb66e9f81b7a3ebbd1d8aa"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/glass3.ogg"
+hash = "b5236a88f63fd1a845289c84bfedd45fc8f84e0e70523b83ddf2f78c75cc4063"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/glass4.ogg"
+hash = "2ee15847219baf96573d4ffd79795b52995d48cff65289d3141e17eb591de51d"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/grass1.ogg"
+hash = "9d09df65a86db42e6049ed661865d43d6f10960ce1e45e99b336bbe4e6f1e279"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/grass2.ogg"
+hash = "b1a4a847ab9ea3710335ca356f9826277137797354095bce435c9b3fb3505ee5"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/grass3.ogg"
+hash = "3c7f95494c4b3787097d61a2209b516e83888e128d2a0c0d846b1f2cd97dc072"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/grass4.ogg"
+hash = "63378cbded45e8c0130e98c351c81097ff64587524557781b54509636da0483b"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/grass5.ogg"
+hash = "c992441153c66c0f768ae060988d9c7b93da7900eec16180ce1cdb2eee2143fa"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/grass6.ogg"
+hash = "e694fac2f8fd4ac1eee8b0123f9cae8cec12a78390e9cb769d459084e3ecfe55"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/gravel1.ogg"
+hash = "f4f6999f96e49318f042cd31bfed0e56a472a725488785eb9780c7394d649bd6"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/gravel2.ogg"
+hash = "52ebc74df12cb790b5f712c8451f5bcf47ecb2b4182a90067bd9fc98d54ae5ae"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/gravel3.ogg"
+hash = "02cd71c1d050c4a8c4c04de4ddbaaafd5a03e5cb4038483115ae1237b3b04773"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/gravel4.ogg"
+hash = "559098f981d7b8044899632e77ffa3f6f62c20e0e51404a89bc9e4dd40d9682f"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/ladder1.ogg"
+hash = "7fce4f783733997cd55af33b1d7b249921e73b185cc6ec44feed2578eae9f7db"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/ladder2.ogg"
+hash = "c5fd633f0d6ed2253f760da08367c2c7df0834091fcb2e08d5d06e8621274298"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/ladder3.ogg"
+hash = "c6458b05693d5113007306bf6cd1c977e337e7a11e8f7a9c106867c6b98e372e"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/ladder4.ogg"
+hash = "8b7473e2005aba8196a6ff661f9f98af301cf84d9eb5f93e598d293697f4cddb"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/ladder5.ogg"
+hash = "485e7502f31ed0dcffe459a805fcd803263fc5dd715aa3f52bf7b6ad5db3c84c"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/sand1.ogg"
+hash = "32e9798084a9db100df07895a84224639c05a307e2080bfa45cab24da6aa3734"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/sand2.ogg"
+hash = "7c38625bcd8aa78de4d7a1683747663d736c03ed5c28cb395b40bc7c4eb1d233"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/sand3.ogg"
+hash = "ed821e922463e041042416b16d2dbf7f7397a0538161e67a4b979dc6ebc8d407"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/sand4.ogg"
+hash = "cf9145b782ef2cf09f91d36005830afe3aceef7b01a47e8bbed8006374c97b93"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/sand5.ogg"
+hash = "305d3558a268e92737928ef5dec496192f51c5c22f3c648406586eafa408486e"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/snow1.ogg"
+hash = "f6bb373914749d7cf3932db50b647ceff6fff6a743a74b986c53d8e29e4296d6"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/snow2.ogg"
+hash = "b5979af6cbfb96d5541e3a92d98fab337a2170c7ae1758a4c43ecb36a9564d6d"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/snow3.ogg"
+hash = "d96bba5f2c7b7076488340b0a3434df1d9a5a156b49a372f5eeaf589f63d09d3"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/snow4.ogg"
+hash = "fcca3249f766597e77cb999455fe2cf0d8f54ef8c630fd0dfbc6f921dd498c89"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/stone1.ogg"
+hash = "812e7e8e82b2aa543bb436d767a3408bbc2ea508356f5ce7e25813a033c9db66"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/stone2.ogg"
+hash = "341d0a0313971765ae3a620565261f0b08323fe797e2005690909faaa669dc33"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/stone3.ogg"
+hash = "a60984cf6c06f4c31f4e8a819d6273ae9a4066a923d238a33f3b8174d3eb241d"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/stone4.ogg"
+hash = "b94a6088c1ce3f240dbf77a3f0d0a561f2a2ec691155e8e2e2ed770659fbe620"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/stone5.ogg"
+hash = "669290a67689a8ccc5bbfd2c82df54c38e0f18ad5645d41bd69fc14e3a2e4cf2"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/stone6.ogg"
+hash = "9e585a82443ab638ff8d619eabc1acd69a014b537a8ac3905444df8d28c5478e"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/wood1.ogg"
+hash = "fb1036444a3b744936745bfb18245dc493939f7dddf218c1ec37fc4978e8bd93"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/wood2.ogg"
+hash = "544e758cc124142f45e1ab6d7ddafbfc69a665ea9d4485f1a46a09822733b594"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/wood3.ogg"
+hash = "86146cd79e05c959bdf37745d877ed41dea33191a33c1c410756723955ec702c"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/wood4.ogg"
+hash = "11b9f35ed3952fbf2acf8e5ea01f5d45b75030af6487ac7915e7e1788e7bcba6"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/wood5.ogg"
+hash = "68dd87c2c9671fb1dafe5f29ee1c121b3bc3cff9280e6206e323ce155519b14b"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/step/wood6.ogg"
+hash = "6e587a06264e80c66fb29063265d91961b8e2b21ae46fec196d22328323c5414"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/tile/piston/in.ogg"
+hash = "280022e798ade6b59f6228acb31d4e5782cc8c8bb992255f78852caeef1d8c9d"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/assets/minecraft/sounds/tile/piston/out.ogg"
+hash = "cdfbcd765ea4f853185801f2d20c325f3ef822aea4208d64df0a73ad5dd28fde"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/pack.mcmeta"
+hash = "423e37fec980d41e5fb52437e933d5c0b5cde262dbe6a9b7af69d4b9f70319e6"
+
+[[files]]
+file = "global_packs/required_resources/EnhancedAudio/pack.png"
+hash = "a6103839361a3990e502870a831d06de8cbdf4701591270c0695798ee1e5c8a7"
+
+[[files]]
+file = "global_packs/required_resources/ambientcaves.pw.toml"
+hash = "858294f4ae414abf8a0b85abd66c359958fe3e286ee97a4673c5abc68b88e00f"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/patrix-32x.pw.toml"
+hash = "a2258e9fd73f499ae26474be9401e78b73b0f505f810dc68395d758b9250040d"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "078012b47a997084ae5e7f47d519ff277b6e46880110a9f912cc5378603f2b26"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "e83a90a5cf68abc34b30252825b16e0c95ca9245cf99788265020d6fa106e86a"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "737d7767b4e9e28e3e60805e3f980120b005803c93837e484d935f6156199893"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
+metafile = true
+
+[[files]]
+file = "mods/bunch-o-bugs.pw.toml"
+hash = "4efca776498b6467eeec15bfd6de0935b0e276f5d54a02be783bd5aa8a393035"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "51adcde508750e16669128678ff4b731d71ac07dd87705b00278ef9df13cc52c"
+metafile = true
+
+[[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "eaf5ff310b162fe7f6443807011b9a3b5735ce20898b81ec8628ec2111fc0626"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "d42a44515e657e67431cb042727db14f697b6d80c88c1da5fbe4c8afce738d29"
+metafile = true
+
+[[files]]
+file = "mods/connectedness.pw.toml"
+hash = "7b8944c22e5deef4ec333194484db891130d683613e7ed9714e90f2c4ee77fed"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "1052dacc31da664492ac60677ba33f4f4402592b6897908b700000f68c04f176"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "a4c70d2425f0b5673281aa9d2a6b1d4ffec8c80a3a5ecdedce00f97eb589424c"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "b2a8a34e87a5ffdbfcb35d1df344e630ac968aad359eced94aa58a184f2d3fa8"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "c3906b5494fc9ff2765c2f9f656153ca0c6101b923a6719ad5df6d58eeace977"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "195cbb146d30bd6f51a00e08b18403640212d1e227da6cc45b5ecbf23ed3f398"
+metafile = true
+
+[[files]]
+file = "mods/enhancedvisuals.pw.toml"
+hash = "652e68d90066f1bce8f9b72ff46a68bc16e62e1ef375cf07e831fd1dcecfe47b"
+metafile = true
+
+[[files]]
+file = "mods/entity-collision-fps-fix.pw.toml"
+hash = "d3fbc739336d573a1df8c4b9ebc5a8398d6b81d8f9857468b2bf0ced0cd38d41"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "4e66e76d11d0750c7f8f2ec2c75a3c33f98f533713f80bd44ba9bba79eb80591"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "ea0d8c35669646b8d739a20b97a28c48744dcdea889ccc3c39ccd1431bf5cc6c"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "e45b8a1cb0776107b7652d2633bd1da2d01fb149b1e8677bcd8197c1d6dc94f7"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "ab6d5c5981eb90445718e5224c7e92a04e4f180373b11fc944d7dce43c704318"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
+metafile = true
+
+[[files]]
+file = "mods/fog-looks-good-now.pw.toml"
+hash = "8f312c7e7a211f270e8260c0e7ba8236f8a1f473ff15e3029f6086d7e70b4f20"
+metafile = true
+
+[[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "30e59165fb662b97599cfaf8afbee50cf9ec5da34f03e7af2bdadd00fcdb93c3"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "815e791734f676dfacbb49ccb954624afdfbc72b44125855b99d181f9a1d1793"
+metafile = true
+
+[[files]]
+file = "mods/hourglass.pw.toml"
+hash = "69829a1d0efe96bc1d3463aef9d1f821b64ae1f038e26d00ba0f8a5da170385c"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "ed9294e17b26a43a4740fc020b18863166894d08103e93290993c1344ea37620"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "5402b8c2d09491f95f2d794459f7adad102f52b09a07a1568b148493ab91d504"
+metafile = true
+
+[[files]]
+file = "mods/lightspeed.pw.toml"
+hash = "4a58810e9373dead7214ba727d484881315ccba44f449aeee97c69dde76ec8a0"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "9116ead38df9119fa9d8103c214482aedab1505554865cac1b3bd385019076bd"
+metafile = true
+
+[[files]]
+file = "mods/manyideas-core.pw.toml"
+hash = "d3686392355cedfeedfecce2fb3f594a39e85746bc747149c40389498946ec73"
+metafile = true
+
+[[files]]
+file = "mods/manyideas-halloween.pw.toml"
+hash = "077ef51af1755da46afab448068315170ffe9a425c80267144ebd12d87d18a1c"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "d6b707c0673cde38765d81a99deb45f213e0f8ea1842784310bb5ab311fefe5e"
+metafile = true
+
+[[files]]
+file = "mods/music-player.pw.toml"
+hash = "169a4912a359760560a4e7419d90e6d7d8d83238342be5a4793584b7052e8175"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9055b4a92e2ea4ad8661c226f549040eb48ae535070942a3a95b019c08ca70f6"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "73389d33df0e78425c139ae64f2b1b8cfa2dd2e9503c53f5eb47482f7191c722"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "5e3c1bece72d73338583e26b5018819b10eada276ebc07af41d1417f7f8d8d0e"
+metafile = true
+
+[[files]]
+file = "mods/pluto.pw.toml"
+hash = "c90d1f76411f74e449eb7a170406303b8106b743e45d1dbb6641fd4e6f2702cd"
+metafile = true
+
+[[files]]
+file = "mods/realistic-torches.pw.toml"
+hash = "36593f276d3f0c0cb8de488d39f8387775e9e33a7e09ed1f25f7a54897ecc93c"
+metafile = true
+
+[[files]]
+file = "mods/reforgium.pw.toml"
+hash = "fa67ee268eb8746d34bf965162c5a058da1ba465538ff0dce73da70c6c2d8902"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "3c827ff9fbf2b5bd9aaa1eedd0e246fbe15e76307de20098ec4e2f27ee18a415"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "e2e2e14e86490dad80d8d6d8d16915070ae6669a12292629931205f6a929d4d4"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "9435f9fc89e8c694bfb896dbe51e1bb92955b37a2407da3a89b200afdf5c4b4e"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "2fe020f3f2a0edeb7f718449e12bddda0a03f5a0aa768a7195006f6a144e9c8c"
+metafile = true
+
+[[files]]
+file = "mods/spelunkers-charm-ii.pw.toml"
+hash = "ab9337fd39c6bab31b358f7866aebd4f9f79dcbe05a585f7ed09ae475b630a66"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "f8f7cbc0daf05063e9d314d9492a87b2484d97e812a418d9a07b9099bb664021"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "56f4fd4f1acc6cffb7769ec153b033963321fa78d3cb60a352b5f6af49938bbb"
+metafile = true
+
+[[files]]
+file = "mods/true-darkness.pw.toml"
+hash = "564fc6925be3b07a5e2a5d215dfe0643a515f0822446447198ef480126afcf4c"
+metafile = true
+
+[[files]]
+file = "mods/u-team-core.pw.toml"
+hash = "3ddad767952feeccb9792895f04c33e4d4dde8e30b2cccb20a4b94a64f6b57c9"
+metafile = true
+
+[[files]]
+file = "mods/whisperwoods.pw.toml"
+hash = "4043a9593fb5e1a5a8faa8b688f588b160d812feff378032f4ba07ae8676ad60"
+metafile = true
+
+[[files]]
+file = "mods/y-is-there-autojump.pw.toml"
+hash = "2e251b41bdf69916f176e9dd52cf5c06c22d12e1f774887499fdb5621f10e7e2"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "b3d23826bc8dcea21e068ed4bef034e069420be4e502924b5df89af184afd88f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "44c7e30bfa53ed30a681f3efed2755c3cff4db059ca3bcdc233ebad8f69e922e"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "d933af89da2aec5709beb85010459aabcc8dc69eb16b1f6bea859ff8201e32b8"
+metafile = true
+
+[[files]]
+file = "mods/zombie-awareness.pw.toml"
+hash = "d3b835c39de7ef5be71391333e8dec0d72ea44e1c5d24b7bea911769c5adf46c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.0.1.zip.txt"
+hash = "2b4aa1f3005cdf574f0c8c8e300777a3c6c5fbc4dfce72d06c17d12190a66540"
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "5b488fd021ad1d6195dfdb63ca361be0d7a0941d0ffc6b31f31c53eccd623554"
+metafile = true
