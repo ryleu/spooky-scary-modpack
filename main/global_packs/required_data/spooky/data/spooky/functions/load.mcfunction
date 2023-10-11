@@ -15,7 +15,7 @@ scoreboard players set creepingConfig ftf.config 1
 scoreboard players set creepingVanishingDelayConfig ftf.config 1
 scoreboard players set crimsonCurseConfig ftf.config 0
 scoreboard players set dayDelayConfig ftf.config 5
-scoreboard players set dreadfulDonationConfig ftf.config 0
+scoreboard players set dreadfulDonationConfig ftf.config 1
 scoreboard players set fearfulFootstepsConfig ftf.config 1
 scoreboard players set ghostDoorConfig ftf.config 1
 scoreboard players set ghostMineConfig ftf.config 1
