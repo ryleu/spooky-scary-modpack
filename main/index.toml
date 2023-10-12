@@ -66,7 +66,7 @@ hash = "b08db67a8199c843440a68909f413641fc76956be57dd96d2f890b55fbc937c5"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/load.mcfunction"
-hash = "d23d718c5942840e75dbff4f92f11d8516253e5af079c9023c5cc8f6c3926b37"
+hash = "dbb7a14cc4525fb7aabcc935e0570a5f70406f3a1f4613319e9f16be9ac34e8b"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/tick.mcfunction"
@@ -1535,6 +1535,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "e45b8a1cb0776107b7652d2633bd1da2d01fb149b1e8677bcd8197c1d6dc94f7"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "99f6a7efa6c8946aacfa1465ad8a2912cdf3233dc09a5788ad5d7f6d679836b4"
 metafile = true
 
 [[files]]
