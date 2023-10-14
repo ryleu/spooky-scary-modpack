@@ -66,7 +66,7 @@ hash = "b08db67a8199c843440a68909f413641fc76956be57dd96d2f890b55fbc937c5"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/load.mcfunction"
-hash = "dbb7a14cc4525fb7aabcc935e0570a5f70406f3a1f4613319e9f16be9ac34e8b"
+hash = "19eaa1d2deb4bb141d2a63b37300fa6888a079c201d36dc2b0f8f7a825c27e76"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/tick.mcfunction"
@@ -1555,11 +1555,6 @@ metafile = true
 [[files]]
 file = "mods/fog-looks-good-now.pw.toml"
 hash = "8f312c7e7a211f270e8260c0e7ba8236f8a1f473ff15e3029f6086d7e70b4f20"
-metafile = true
-
-[[files]]
-file = "mods/from-the-fog.pw.toml"
-hash = "30e59165fb662b97599cfaf8afbee50cf9ec5da34f03e7af2bdadd00fcdb93c3"
 metafile = true
 
 [[files]]

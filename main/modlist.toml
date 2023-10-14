@@ -86,10 +86,6 @@ name = "Fog Looks Good Now"
 url = "https://cdn.modrinth.com/data/Bno70aWr/versions/uw4XHhfA/betterfog-1.19.2-1.1.2.jar"
 
 [[mods]]
-name = "From The Fog"
-url = "https://cdn.modrinth.com/data/p1WH6sHr/versions/TZ33FEFm/From-The-Fog-1.19-v1.9.1-Forge-Fabric.jar"
-
-[[mods]]
 name = "Geckolib"
 url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/lxzmD9V4/geckolib-forge-1.19-3.1.40.jar"
 
